@@ -1,0 +1,5 @@
+Payrride is working as a middleware its provide lift who have not own vehicles and vehicles owner 
+provide some money with these help we can reduce traffic and pollution in our socity.
+
+Technology used: Angular 6, Google Map API, Bootstrap, Firebase.
+

@@ -1,0 +1,43 @@
+.left-side-prof{
+  background-image: url("../../../../assets/images/left-profile.jpg");
+  -webkit-background-size: cover;
+  background-size: cover;
+  height: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+}
+.mt-1 {
+  margin-top: 30% !important;
+}
+.mt-2 {
+  margin-top: 10% !important;
+  margin-bottom: 3% !important;
+}
+.right-prof{
+  font-family: 'Barlow', sans-serif;
+  margin-top: 15px;
+  font-size: 15px;
+}
+.left-side-edit-prof{
+  /*border: 1px solid black;*/
+  text-align: center;
+  padding: 5px;
+  margin-top: 15px;
+  -webkit-box-shadow: 0 6px 4px -4px black;
+  -moz-box-shadow: 0 8px 6px -6px black;
+  box-shadow: 0 2px 8px -4px black;
+  margin-left: 30px;
+}
+.wallet-money{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+}
+.wallet{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: rgba(130, 131, 128, 0.87);
+}
+
+

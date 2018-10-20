@@ -1,0 +1,53 @@
+@font-face {
+  font-family: heading;
+  src: url("../font/heading.ttf");
+}
+@font-face {
+  font-family: ratta;
+  src: url("../font/ratta.ttf");
+}
+@font-face {
+  font-family: dosi;
+  src: url("../font/dosi.ttf");
+}
+@font-face{
+  font-family: Josefin;
+  src: url("../font/Josefin.ttf");
+}
+@font-face {
+  font-family: reem;
+  src: url("../font/Reem.ttf");
+}
+.quot2{
+  font-family: Josefin;
+  font-size: 30px;
+  color: lightyellow;
+  font-family: Josefin;
+  font-size: 30px;
+  margin-top: 26px;
+}
+.web_name{
+  font-family: heading;
+  font-size: 38px;
+  margin-top: 5px;
+  font-weight: 1000;
+
+}
+.home_block{
+  margin-top: 23px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.nav-bar{
+  margin-top: 41px;
+}
+.main_container{
+  margin-top: 26px;
+  margin-left: 25px;
+}
+.quot{
+  color: rgb(169,169,169);
+  font-size: 10px;
+  margin-top: -15px;
+  margin-left: 141px;
+}

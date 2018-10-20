@@ -1,0 +1,127 @@
+.quot2{
+  font-family: Josefin;
+  font-size: 30px;
+  color: lightyellow;
+  font-family: Josefin;
+  font-size: 30px;
+  margin-top: 26px;
+}
+.web_name{
+  font-family: heading;
+  font-size: 38px;
+  margin-top: 5px;
+  font-weight: 1000;
+
+}
+.main_container{
+  margin-top: 26px;
+  margin-left: 25px;
+}
+.quot{
+  color: rgb(134, 122, 122);
+  font-size: 12px;
+  margin-top: -11px;
+  margin-left: 141px;
+}
+.rider{
+  border:white 1px solid;
+  color: white;
+}
+.lifter{
+  border:white 1px solid;
+  color: white;
+}
+.form_container{
+  background-color: #eaecef;
+}
+.form1{
+  height: 38px;
+  margin-left: 10px;
+  border: 0.5px #eaecef solid;
+  border-radius: 3px;
+  width: 95%;
+  padding: 20px;
+  margin-bottom: 5px;
+  text-align:center;
+}
+.submit_btn{
+  background-color: black;
+  margin-left: 8px;
+  color: white;
+  height: 37px;
+  width: 95%;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+.form_quot{
+  font-family: Josefin;
+  text-align: center;
+  margin-bottom: 11px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-size: 22px;
+}
+.lift-block:hover{
+  background-color: rgba(0,0,0,0.5);
+}
+.why-quot{
+  font-family: ratta;
+  font-size: 35px;
+  font-weight: 400;
+}
+.why-quot-tag{
+  margin-top: -8px;
+  margin-left: 2px;
+  color:#afb4c6;
+  font-family: ratta;
+}
+.form-condition{
+  color: #888c87;
+  width: 95%;
+  text-align: center;
+  margin-left: 5px;
+  font-size: 11px;
+}
+.heading_why_ans{
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+.ans_container{
+  border: 0px black solid;
+  padding: 17px;
+}
+.ans_container:hover{
+  border: 2px black solid;
+}
+fire-estimation-block{
+  margin-top: 11px;
+  font-family: reem;
+  font-weight: 100;
+  font-size: 45px;
+}
+.fire-estimation{
+  margin-top: 17px;
+  width: 63%;
+  text-align: center;
+}
+.detail_fire{
+  margin-top: 2px;
+  font-family: dosi;
+  font-size: 27px;
+  font-stretch: normal;
+  margin-left:0px;
+}
+.fire-tag{
+  font-family: dosi;
+  font-size: 35px;
+  color: grey;
+}
+.fire-estimation-block{
+  margin-top: 11px;
+  font-family: reem;
+  font-weight: 100;
+  font-size: 45px;
+}
